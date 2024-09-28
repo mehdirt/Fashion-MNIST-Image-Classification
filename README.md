@@ -46,8 +46,6 @@ Each image is a **28x28 grayscale** image, and each label belongs to one of 10 c
 
 ## Results
 - Accuracy: The model achieved 87.1% accuracy after 25 epochs.
-- The plot below shows how the loss function decreases during training:
-- Confusion matrix visualizing model predictions:
 
 ## License
 This project is licensed under the MIT License. See the LICENSE file for more details.
